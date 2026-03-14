@@ -1,0 +1,97 @@
+{
+  "base_url": "https://raw.githubusercontent.com/Lacki5891/Ru-tl/main/localized_data",
+  "zip_url": "https://codeload.github.com/Lacki5891/Ru-tl/zip/refs/heads/main",
+  "zip_dir": "Ru-tl-main/localized_data",
+  "files": [
+    {
+      "path": "assets/lyrics/m1029_lyrics.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/lyrics/m1093_lyrics.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/lyrics/m1151_lyrics.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/lyrics/m1176_lyrics.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/lyrics/m1177_lyrics.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/story/data/01/0000/storytimeline_010000001.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/story/data/04/1091/storytimeline_041091001.json",
+      "hash": "3f3ea7bd90e5fccf98bd36a6b9893dec9cf31b9a6308f540ad1e135ad0be247b",
+      "size": 4783
+    },
+    {
+      "path": "assets/story/data/04/1129/storytimeline_041129005.json",
+      "hash": "3ec41f0dd4e3c2b5bf61cd786f4a05f96586bb85f4aa152d72366f02f24a0ec9",
+      "size": 240
+    },
+    {
+      "path": "assets/story/data/04/1129/storytimeline_041129006.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "assets/story/data/08/0000/storytimeline_080000013.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "character_system_text_dict.json",
+      "hash": "47088ecb986772bab4487b95aa3a21bd948f5097f8188e24558a96ed9f7fbee1",
+      "size": 2421
+    },
+    {
+      "path": "config.json",
+      "hash": "5786dac75b55831470d358be82df96f7374ba16be43c84733cd82ed75058fe28",
+      "size": 1971
+    },
+    {
+      "path": "localize_dict.json",
+      "hash": "46fc5d050a1501e9c879ad4973587f28e7fb16b58e673890ad55bf6fb607d956",
+      "size": 21978
+    },
+    {
+      "path": "race_jikkyo_comment_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "race_jikkyo_message_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "ru_umafin",
+      "hash": "db2bf4cb030e9cb4c66e138ccdf8dd07161407f9af2fe2d078701aaccea0b20b",
+      "size": 63543
+    },
+    {
+      "path": "ru_umafinandroid",
+      "hash": "19b2afba17ef6dbdee74b215c23b76905bdc71ba73a655c626e3e6e69eaf3933",
+      "size": 62399
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "045de255f2237786b32404e7a8d9b334dae9bf6b50b03a25191521d6619ff575",
+      "size": 12913
+    }
+  ]
+}
